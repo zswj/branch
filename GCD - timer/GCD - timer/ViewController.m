@@ -20,6 +20,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self.laber sizeToFit];
+    
+    //分支提交了吗;;;;
     /****** GCD 执行 NSTimer ******/
     //一个runloop的一个模式下 要执行三个事情 Source Obsevet Timer
     //Timer 是时钟事件
